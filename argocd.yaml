@@ -11,4 +11,4 @@ spec:
     ports:
       - containerPort: 8080
  imagePullSecrets:
-  - name: ECR-user
+  - name: k8s-user
